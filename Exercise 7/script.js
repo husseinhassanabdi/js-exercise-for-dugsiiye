@@ -7,5 +7,5 @@ colors.push("green");
 console.log(colors); 
 
 //after shift
-colors.shift();
+colors.shift();clea
 console.log(colors);
