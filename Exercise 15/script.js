@@ -16,7 +16,6 @@ for (let student of people) {  {
     console.log(student.age);
     console.log(student.birthday);
     
-    
 }
  console.log(" -------" )
 }
