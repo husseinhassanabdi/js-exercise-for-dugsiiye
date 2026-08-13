@@ -1,0 +1,18 @@
+
+{
+    "id": 10,
+    "name": "Hussein",
+    "city": "Marko",
+    "orders": [
+        {
+            "id": 1,
+            "product": "Laptop",
+            "quantity": 2
+        },
+        {
+            "id": 2,
+            "product": "Mouse",
+            "quantity": 5
+        }
+    ]
+}
