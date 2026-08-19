@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Exercise of JS</title>
+
+    <style>
+        #colorpreview {
+            width: 300px;
+            height: 300px;
+            margin-top: 30px;
+            border: 2px solid black;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Interactive Color Picker</h1>
+
+    <label for="colorpicker">Choose a color:</label>
+    <input type="color" id="colorpicker">
+
+    <div id="colorpreview">
+        Color Preview
+    </div>
+
+    <h2>Color History</h2>
+
+    <ul id="color history"></ul>
+
+    <button id="clearhistory">Clear history</button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

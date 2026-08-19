@@ -1,15 +1,4 @@
 
-
-// function changeImage() {
-//     const image = document.querySelector('#image');
-   
-
-//     const url = prompt("please enter your url")
-
-//     image.setAttribute('src', url);
-    
-// }
-
 function changeImage() {
     const image = document.querySelector('#image');
 
